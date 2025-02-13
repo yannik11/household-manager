@@ -1,0 +1,30 @@
+# Ignoriere systembezogene Ordner
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Muse Hub/
+Music/
+Pictures/
+Videos/
+OneDrive/
+
+# Ignoriere Entwicklungsordner und temporäre Dateien
+.vscode/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignoriere Datenbankdateien
+*.db
+
+# Andere persönliche Dateien und Verzeichnisse
+*.ipynb
+*.bak
+.VirtualBox/
+.arduinoIDE/
+.codeium/
